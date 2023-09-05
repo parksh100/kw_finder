@@ -1,0 +1,15 @@
+{
+  "name": "get_keyword",
+  "version": "1.0.0",
+  "description": "",
+  "main": "googleTrendsNode.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "google-trends-api": "^4.9.2"
+  }
+}
